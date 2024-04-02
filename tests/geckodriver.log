@@ -1,0 +1,340 @@
+1711014484161	geckodriver	INFO	Listening on 127.0.0.1:65098
+1711014487206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\9\\rust_mozprofileyZENnu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711014487817	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711014487894	Marionette	INFO	Listening on port 65110
+WebDriver BiDi listening on ws://127.0.0.1:65099
+Read port: 65110
+1711014488074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65099/devtools/browser/3cce2fcd-bd91-4c83-86dc-9a3e5a9d6542
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711014496869	Marionette	INFO	Stopped listening on port 65110
+Dynamically enable window occlusion 1
+1711021006544	geckodriver	INFO	Listening on 127.0.0.1:56857
+1711021009593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\9\\rust_mozprofileChepX6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711021010873	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711021011069	Marionette	INFO	Listening on port 56881
+WebDriver BiDi listening on ws://127.0.0.1:56858
+Read port: 56881
+1711021011508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56858/devtools/browser/ff6435da-208c-46f2-8fce-a8343f5076cb
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711021018904	Marionette	INFO	Stopped listening on port 56881
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 21: Script terminated by timeout at:
+now@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:21:6890
+x.fx.tick@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:23:25809
+
+Dynamically enable window occlusion 1
+1711021778647	geckodriver	INFO	Listening on 127.0.0.1:57034
+1711021781741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\9\\rust_mozprofileWvs2li"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711021782592	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711021782711	Marionette	INFO	Listening on port 57042
+WebDriver BiDi listening on ws://127.0.0.1:57035
+Read port: 57042
+1711021782984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57035/devtools/browser/98c6b4c9-1278-4997-8022-bdf4e5b5ca99
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711021790508	Marionette	INFO	Stopped listening on port 57042
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 21: Script terminated by timeout at:
+now@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:21:6890
+x.fx.tick@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:23:25809
+
+Dynamically enable window occlusion 1
+1711022052873	geckodriver	INFO	Listening on 127.0.0.1:57150
+1711022055891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\9\\rust_mozprofilebizVwt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711022056642	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711022056817	Marionette	INFO	Listening on port 57158
+WebDriver BiDi listening on ws://127.0.0.1:57151
+Read port: 57158
+1711022057156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57151/devtools/browser/9c843ab0-4aad-4346-9544-878443493a67
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711022063905	Marionette	INFO	Stopped listening on port 57158
+Dynamically enable window occlusion 1
+1711022124329	geckodriver	INFO	Listening on 127.0.0.1:57211
+1711022127362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\9\\rust_mozprofilevcc5YS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711022127985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711022128088	Marionette	INFO	Listening on port 57219
+WebDriver BiDi listening on ws://127.0.0.1:57212
+Read port: 57219
+1711022128313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57212/devtools/browser/20479ada-f205-4737-a349-6075ef31ab65
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711022135051	Marionette	INFO	Stopped listening on port 57219
+Dynamically enable window occlusion 1
+1711294899537	geckodriver	INFO	Listening on 127.0.0.1:53729
+1711294902597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53730" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofilee8b02Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711294903696	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711294903844	Marionette	INFO	Listening on port 53740
+WebDriver BiDi listening on ws://127.0.0.1:53730
+Read port: 53740
+1711294904285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53730/devtools/browser/07411cb1-f03d-428c-90d3-2d00143c07fa
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711294919757	Marionette	INFO	Stopped listening on port 53740
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 21: Script terminated by timeout at:
+now@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:21:6890
+x.fx.tick@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:23:25809
+
+Dynamically enable window occlusion 1
+1711294929033	geckodriver	INFO	Listening on 127.0.0.1:53792
+1711294932075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofileNHm8yN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711294932801	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711294932921	Marionette	INFO	Listening on port 53800
+WebDriver BiDi listening on ws://127.0.0.1:53793
+Read port: 53800
+1711294933307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53793/devtools/browser/3bfed053-c5c0-4d41-9015-a0f11e4babbb
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711294962848	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711294969324	Marionette	INFO	Stopped listening on port 53800
+Dynamically enable window occlusion 1
+1711294996847	geckodriver	INFO	Listening on 127.0.0.1:53849
+1711294999904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53850" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofileLjewv5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711295000544	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711295000657	Marionette	INFO	Listening on port 53857
+WebDriver BiDi listening on ws://127.0.0.1:53850
+Read port: 53857
+1711295000924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53850/devtools/browser/dcafd73c-058e-4361-857f-1e70a51a93ab
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711295014878	Marionette	INFO	Stopped listening on port 53857
+Dynamically enable window occlusion 1
+1711295029649	geckodriver	INFO	Listening on 127.0.0.1:53906
+1711295032667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofilezsDk8D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711295033304	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711295033423	Marionette	INFO	Listening on port 53918
+WebDriver BiDi listening on ws://127.0.0.1:53907
+Read port: 53918
+1711295033697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53907/devtools/browser/ddd2398a-2950-4d94-97b6-9d38ca73b4a8
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711295051084	Marionette	INFO	Stopped listening on port 53918
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 21: Script terminated by timeout at:
+now@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:21:6864
+x.fx.tick@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:23:25809
+
+Dynamically enable window occlusion 1
+1711295054522	geckodriver	INFO	Listening on 127.0.0.1:53964
+1711295057558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofile0OxwWf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711295058232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711295058351	Marionette	INFO	Listening on port 53972
+WebDriver BiDi listening on ws://127.0.0.1:53965
+Read port: 53972
+1711295058611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53965/devtools/browser/11a8083a-a725-4376-8377-813e399a5a77
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711295066562	Marionette	INFO	Stopped listening on port 53972
+Dynamically enable window occlusion 1
+1711295238915	geckodriver	INFO	Listening on 127.0.0.1:58053
+1711295241951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofileCpQE8Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711295242787	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711295242900	Marionette	INFO	Listening on port 58061
+WebDriver BiDi listening on ws://127.0.0.1:58054
+Read port: 58061
+1711295243181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58054/devtools/browser/33b11b31-0354-48f6-9257-ee31a6559ec3
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711295253821	Marionette	INFO	Stopped listening on port 58061
+Dynamically enable window occlusion 1
+1711295330306	geckodriver	INFO	Listening on 127.0.0.1:58211
+1711295333350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofile8xWC70"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711295334046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711295334164	Marionette	INFO	Listening on port 58221
+Read port: 58221
+WebDriver BiDi listening on ws://127.0.0.1:58212
+1711295334286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58212/devtools/browser/4065e3ed-1191-4280-951c-4aeb56b65213
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711295341994	Marionette	INFO	Stopped listening on port 58221
+Dynamically enable window occlusion 1
+1711297630713	geckodriver	INFO	Listening on 127.0.0.1:58770
+1711297633743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofilea2JXgt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711297634402	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711297634523	Marionette	INFO	Listening on port 58778
+WebDriver BiDi listening on ws://127.0.0.1:58771
+Read port: 58778
+1711297634797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58771/devtools/browser/00314fa8-8b08-4499-9cc6-58681d502fd3
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711297649544	Marionette	INFO	Stopped listening on port 58778
+Dynamically enable window occlusion 1
+1711297702615	geckodriver	INFO	Listening on 127.0.0.1:58842
+1711297705641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofileQPl1Mu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711297706306	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711297706426	Marionette	INFO	Listening on port 58850
+WebDriver BiDi listening on ws://127.0.0.1:58843
+Read port: 58850
+1711297706687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58843/devtools/browser/086547e4-762d-4ae7-a394-8acc4d620d57
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711297713864	Marionette	INFO	Stopped listening on port 58850
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 23: Script terminated by timeout at:
+x.fx.tick@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:23:25787
+
+Dynamically enable window occlusion 1
+1711297768208	geckodriver	INFO	Listening on 127.0.0.1:58903
+1711297771252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofilevi1KVw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711297771918	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711297772031	Marionette	INFO	Listening on port 58911
+WebDriver BiDi listening on ws://127.0.0.1:58904
+Read port: 58911
+1711297772308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58904/devtools/browser/fe722a05-99c2-4b76-9b83-1de3dd7f6ed8
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711297784624	Marionette	INFO	Stopped listening on port 58911
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 21: Script terminated by timeout at:
+now@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:21:6864
+x.fx.tick@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:23:25809
+
+Dynamically enable window occlusion 1
+1711297820210	geckodriver	INFO	Listening on 127.0.0.1:58965
+1711297823225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofilebObW43"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711297823823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711297823931	Marionette	INFO	Listening on port 58975
+WebDriver BiDi listening on ws://127.0.0.1:58966
+Read port: 58975
+1711297824058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58966/devtools/browser/5b5f96af-e4d8-4c08-9143-a395d051a657
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711297837247	Marionette	INFO	Stopped listening on port 58975
+Dynamically enable window occlusion 1
+1711297879827	geckodriver	INFO	Listening on 127.0.0.1:59029
+1711297882875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\13\\rust_mozprofile9GsdYv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711297883467	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711297883580	Marionette	INFO	Listening on port 59037
+WebDriver BiDi listening on ws://127.0.0.1:59030
+Read port: 59037
+1711297883802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59030/devtools/browser/8a1205c6-a077-478c-afd1-977409d2a1c3
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711297898285	Marionette	INFO	Stopped listening on port 59037
+Dynamically enable window occlusion 1
+1711949742274	geckodriver	INFO	Listening on 127.0.0.1:62463
+1711949745332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\5\\rust_mozprofilewhIH6d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711949745932	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711949746022	Marionette	INFO	Listening on port 62472
+WebDriver BiDi listening on ws://127.0.0.1:62464
+Read port: 62472
+1711949746232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62464/devtools/browser/3884b854-c03d-4e3d-bc61-24b2e340065d
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1711949758022	Marionette	INFO	Stopped listening on port 62472
+Dynamically enable window occlusion 1
