@@ -3,6 +3,7 @@ from page.homepage_before_login import HomePage_before_login
 from page.loginpage import LoginPage
 from page.homepageafterlogin import HomePageAfterLogin
 
+
 class TestDropDownFunctionality(WebDriverWrapper):
 
     def test_display_dropdown_Apparel_and_shops(self):
@@ -24,9 +25,9 @@ class TestDropDownFunctionality(WebDriverWrapper):
 
         # add to cart computing and internet button.
         computingandinternet.click_on_category("Apparel and Shoes")
-        
-        # select dropdown value
+
+        # select dropdown value as variable count
         homepage_after_login.set_dropdown_on_display_dropdown(str(item_count))
 
-        # verify the count of items
+        # verify the item count is same as dropdown value.
         homepage_after_login.verify_total_item_count(str(item_count))

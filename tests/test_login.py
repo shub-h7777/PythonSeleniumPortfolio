@@ -3,35 +3,46 @@ from selenium.webdriver.common.by import By     # FOR FINIDING ELEMENTS
 from page.homepage_before_login import HomePage_before_login
 from page.loginpage import LoginPage
 from page.homepageafterlogin import HomePageAfterLogin
+import pytest
+from utilities import data_source
 
 """Test case related to Login"""
 
 class TestLogin(WebDriverWrapper):
 
-    def test_valid_login(self):
+    """
+    @pytest.mark.parametrize will help to run same method but will different inputs
+    """
+
+    @pytest.mark.parametrize(
+        "username,password",data_source.test_valid_login_data
+    )
+    def test_valid_login(self, username, password):
         homepage = HomePage_before_login(self.driver)
         loginpage = LoginPage(self.driver)
         homepage_after_login = HomePageAfterLogin(self.driver)
         homepage.click_on_log_in_link()
-        loginpage.enter_email_password_and_click_login("demo@shubham.com","demo@shubham.com")
-        homepage_after_login.verify_user_is_login("demo@shubham.com")
+        loginpage.enter_email_password_and_click_login(username,password)
+        homepage_after_login.verify_user_is_login(username)
 
-
-    def test_invalid_login(self):
+    @pytest.mark.parametrize(
+        "username,password, error_message", data_source.test_invalid_login_data
+    )
+    def test_invalid_login(self, username, password, error_message):
         homepage = HomePage_before_login(self.driver)
         loginpage = LoginPage(self.driver)
         homepage.click_on_log_in_link()
-        loginpage.enter_email_password_and_click_login("invalid@shubham.com", "invalid@shubham.com")
-        loginpage.verify_invalid_login_error_message()
+        loginpage.enter_email_password_and_click_login(username, password)
+        loginpage.verify_invalid_login_error_message(error_message)
 
-
-    def test_login_and_logout(self):
+    @pytest.mark.parametrize(
+        "username,password", data_source.test_valid_login_data
+    )
+    def test_login_and_logout(self, username, password):
         homepage = HomePage_before_login(self.driver)
         loginpage = LoginPage(self.driver)
         homepage.click_on_log_in_link()
-        loginpage.enter_email_password_and_click_login("demo@shubham.com", "demo@shubham.com")
-        self.driver.find_element(By.XPATH, "//a[text()='Log out']").is_displayed()
-        self.driver.find_element(By.XPATH, "//a[text()='Log out']").click()
-        self.driver.find_element(By.XPATH, "//a[text()='Log in']").is_displayed()
+        loginpage.enter_email_password_and_click_login(username, password)
+        loginpage.logout_and_verify_login_link_is_visible()
 
 
