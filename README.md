@@ -1,2 +1,2 @@
 # PythonSeleniumPortfolio
-basic python selenium project
+Basic python selenium project related to E-commerce website https://demowebshop.tricentis.com/
