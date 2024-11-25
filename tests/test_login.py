@@ -1,5 +1,4 @@
 from base.webdriver_listener import WebDriverWrapper    # IMPORTING WEBDRIVER WRAPPER CLASS
-from selenium.webdriver.common.by import By     # FOR FINIDING ELEMENTS
 from page.homepage_before_login import HomePage_before_login
 from page.loginpage import LoginPage
 from page.homepageafterlogin import HomePageAfterLogin
@@ -13,7 +12,6 @@ class TestLogin(WebDriverWrapper):
     """
     @pytest.mark.parametrize will help to run same method but will different inputs
     """
-
     @pytest.mark.parametrize(
         "username,password",data_source.test_valid_login_data
     )

@@ -27,3 +27,12 @@ test_valid_login_data = [
      ("shuham122@gmail.com", "Demo@123"),
      ("demo@shubham.com", "demo@shubham.com")
     ]
+
+test_invalid_register_data = [
+     ("male", "sh", "sh", "sh@gmail.com", "passw", "confirm passw"),
+     ("male", "sh", "sh", "sh@gmail.com", "passw", "confirm passw")
+    ]
+
+test_invalid2_register_data = [
+     ("male", "", "sh", "sh@gmail.com", "passw", "confirm passw", "First name is required.", "", "", "", "")
+    ]
