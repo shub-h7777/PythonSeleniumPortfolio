@@ -30,9 +30,9 @@ class RegisterPage:
 
 
     def register_new_account(self, gender, firstname, lastname, email, password, confirm_password):
-        if gender == GenderRadioButton.male:
+        if gender == "male":
             self.driver.find_element(By.ID, self.male_radio_button).click()
-        elif gender == GenderRadioButton.female:
+        elif gender == "female":
             self.driver.find_element(By.ID, self.female_radio_button).click()
         self.driver.find_element(By.ID, self.firstname_textbox).send_keys(firstname)
         self.driver.find_element(By.ID, self.lastname_textbox).send_keys(lastname)
@@ -47,9 +47,23 @@ class RegisterPage:
             assert_that(element).is_equal_to(firstname_error)
         except NoSuchElementException:
             element = None
-        # assert_that(self.driver.find_element(By.XPATH, self.last_name_validation).text).is_equal_to(lastname_error)
-        # assert_that(self.driver.find_element(By.XPATH, self.email_validation).text).is_equal_to(email_error)
-        # assert_that(self.driver.find_element(By.XPATH, self.password_validation).text).is_equal_to(password_error)
-        # assert_that(self.driver.find_element(By.XPATH, self.confirm_password_validation).text).is_equal_to(confirm_password_error)
-
-
+        try:
+            element = self.driver.find_element(By.XPATH, self.last_name_validation).text
+            assert_that(element).is_equal_to(lastname_error)
+        except NoSuchElementException:
+            element = None
+        try:
+            element = self.driver.find_element(By.XPATH, self.email_validation).text
+            assert_that(element).is_equal_to(email_error)
+        except NoSuchElementException:
+            element = None
+        try:
+            element = self.driver.find_element(By.XPATH, self.password_validation).text
+            assert_that(element).is_equal_to(password_error)
+        except NoSuchElementException:
+            element = None
+        try:
+            element = self.driver.find_element(By.XPATH, self.confirm_password_validation).text
+            assert_that(element).is_equal_to(confirm_password_error)
+        except NoSuchElementException:
+            element = None
