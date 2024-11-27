@@ -29,6 +29,3 @@ test_valid_login_data = [
     ]
 
 test_invalid2_register_data = read_utils.get_sheet_as_list("../test_data/Demo_Web_Shop_manual_TC.xlsx", "Data_Invalid_Register")
-# test_invalid2_register_data = [
-#      ('female', "a", "a", "a", "a","a" , "", "", "Wrong email", "The password should have at least 6 characters.", ""),
-# ]
