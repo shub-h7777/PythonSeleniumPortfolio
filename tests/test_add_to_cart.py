@@ -19,10 +19,10 @@ class Test_Add_To_Cart(WebDriverWrapper):
         # login in the application
         homepage.click_on_log_in_link()
         loginpage.enter_email_password_and_click_login("demo@shubham.com", "demo@shubham.com")
-        homepage_after_login.verify_user_is_login("demo@shubham.com")
+        homepage_after_login.verify_username("demo@shubham.com")
 
         # Verify user is login
-        computingandinternet.verify_user_is_login("demo@shubham.com")
+        computingandinternet.verify_username("demo@shubham.com")
 
         # add to cart computing and internet button.
         computingandinternet.click_on_category("Books")

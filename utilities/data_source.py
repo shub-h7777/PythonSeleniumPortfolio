@@ -7,7 +7,7 @@ Blank email, Invalid password
 Blank email, Valid password
 Invalid email, Blank password
 Invalid email, Invalid password
-Invalid email, Valid password
+Invalid email, Valid passwordii
 Valid email, Blank password
 Valid email, Invalid password
 """
@@ -29,3 +29,5 @@ test_valid_login_data = [
     ]
 
 test_invalid2_register_data = read_utils.get_sheet_as_list("../test_data/Demo_Web_Shop_manual_TC.xlsx", "Data_Invalid_Register")
+
+test_valid_register_data = read_utils.get_sheet_as_list("../test_data/Demo_Web_Shop_manual_TC.xlsx", "Data_Valid_Register")

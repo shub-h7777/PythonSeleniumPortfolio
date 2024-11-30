@@ -41,6 +41,10 @@ class RegisterPage:
         self.driver.find_element(By.ID, self.confirm_Password_textbox).send_keys(confirm_password)
         self.driver.find_element(By.ID, self.register_button).click()
 
+    def verify_registration_success_message(self):
+        registration_message = self.driver.find_element(By.XPATH, self.registration_completed_text).text
+        assert_that(registration_message).is_equal_to("Your registration completed")
+
     def verify_error_on_register_screen(self, firstname_error, lastname_error, email_error, password_error, confirm_password_error):
         try:
             element = self.driver.find_element(By.XPATH, self.first_name_validation).text

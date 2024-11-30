@@ -17,7 +17,7 @@ class HomePageAfterLogin:
     sort_by_dropdown = "products-orderby"        #id
     dropdown_value = "//select[@id='products-pagesize']/option[@selected='selected']"      #xpath
 
-    def verify_user_is_login(self, expected_email):
+    def verify_username(self, expected_email):
         actual_email= self.driver.find_element(By.XPATH,self.account_email_xpath).text
         assert expected_email == actual_email
 
